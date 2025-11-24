@@ -1,24 +1,26 @@
 // TODO: Find out where this is actually supposed to go
+#define COLOR_RED_NEBULA "#b94111" //"#a11f1f"
+
 /turf/simulated/wall/prepainted/nebula
-	color = COLOR_DARK_RED
+	color = COLOR_RED_NEBULA
 	paint_color = COLOR_WALL_GUNMETAL
-	stripe_color = COLOR_DARK_RED
+	stripe_color = COLOR_RED_NEBULA
 
 /turf/simulated/wall/r_wall/prepainted/nebula
-	color = COLOR_DARK_RED
+	color = COLOR_RED_NEBULA
 	paint_color = COLOR_WALL_GUNMETAL
-	stripe_color = COLOR_DARK_RED
+	stripe_color = COLOR_RED_NEBULA
 
 /obj/machinery/door/airlock/nebula
 	icon_state = "preview"
 	assembly_type = /obj/structure/door_assembly
-	stripe_color = COLOR_DARK_RED
+	stripe_color = COLOR_RED_NEBULA
 
-/obj/map_helper/paint_stripe/nebula/color=COLOR_DARK_RED
+/obj/map_helper/paint_stripe/nebula/color=COLOR_RED_NEBULA
 
 /obj/effect/floor_decal/corner/nebula
 	name = "nebula corner"
-	color = COLOR_DARK_RED
+	color = COLOR_RED_NEBULA
 
 /obj/effect/floor_decal/corner/nebula/diagonal
 	icon_state = "corner_white_diagonal"
