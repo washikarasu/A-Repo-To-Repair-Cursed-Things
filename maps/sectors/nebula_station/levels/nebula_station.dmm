@@ -2956,6 +2956,11 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/sector/nebula_station/medical/medbay)
+"dGm" = (
+/obj/spawner/window/low_wall,
+/obj/map_helper/paint_stripe/beastybrown,
+/turf/space/basic,
+/area/space)
 "dQC" = (
 /obj/spawner/window/low_wall/reinforced/firelocks,
 /obj/map_helper/paint_stripe/nebula,
@@ -3204,6 +3209,11 @@
 "jHT" = (
 /turf/simulated/wall/r_wall/prepainted/nebula,
 /area/sector/nebula_station/common/chapel)
+"jRe" = (
+/obj/spawner/window/low_wall,
+/obj/map_helper/paint_stripe/darkred,
+/turf/space/basic,
+/area/space)
 "jSc" = (
 /obj/effect/floor_decal/corner/blue/border{
 	dir = 4
@@ -3293,6 +3303,14 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/shuttle/trade_ship/general)
+"mPe" = (
+/turf/simulated/wall/r_wall/prepainted/engineering,
+/area/space)
+"mQg" = (
+/obj/spawner/window/low_wall,
+/obj/map_helper/paint_stripe/nebula,
+/turf/space/basic,
+/area/space)
 "mYZ" = (
 /obj/structure/table/reinforced,
 /turf/simulated/floor/tiled,
@@ -3372,6 +3390,11 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/sector/nebula_station/medical/medbay)
+"pLc" = (
+/obj/spawner/window/low_wall,
+/obj/map_helper/paint_stripe/sun,
+/turf/space/basic,
+/area/space)
 "pNI" = (
 /obj/effect/floor_decal/corner/blue/border{
 	dir = 6
@@ -3537,6 +3560,9 @@
 /obj/machinery/door/airlock/multi_tile/glass,
 /turf/simulated/floor/tiled,
 /area/sector/nebula_station/cargo/trade_dock)
+"tYs" = (
+/turf/simulated/wall/r_wall/prepainted/cargo,
+/area/space)
 "ubj" = (
 /obj/machinery/air_alarm/north_mount,
 /turf/simulated/floor/tiled/freezer,
@@ -3601,6 +3627,9 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/shuttle/trade_ship/general)
+"vCj" = (
+/turf/simulated/wall/r_wall/prepainted/security,
+/area/space)
 "vCn" = (
 /obj/machinery/light{
 	dir = 4
@@ -4079,13 +4108,13 @@ sYJ
 sYJ
 sYJ
 sYJ
+tYs
 sYJ
+mPe
 sYJ
+vCj
 sYJ
-sYJ
-sYJ
-sYJ
-sYJ
+akd
 sYJ
 "}
 (3,1,1) = {"
@@ -4273,13 +4302,13 @@ sYJ
 sYJ
 sYJ
 sYJ
+dGm
 sYJ
+pLc
 sYJ
+jRe
 sYJ
-sYJ
-sYJ
-sYJ
-sYJ
+mQg
 sYJ
 "}
 (4,1,1) = {"

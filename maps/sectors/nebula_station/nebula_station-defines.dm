@@ -1,5 +1,5 @@
 // TODO: Find out where this is actually supposed to go
-#define COLOR_RED_NEBULA "#b94111" //"#a11f1f"
+#define COLOR_RED_NEBULA "#e22214" //"#a11f1f"
 
 /turf/simulated/wall/prepainted/nebula
 	color = COLOR_RED_NEBULA
