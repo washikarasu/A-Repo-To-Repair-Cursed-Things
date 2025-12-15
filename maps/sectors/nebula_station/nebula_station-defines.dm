@@ -12,8 +12,12 @@
 	stripe_color = COLOR_RED_NEBULA
 
 /obj/machinery/door/airlock/nebula
-	icon_state = "preview"
 	assembly_type = /obj/structure/door_assembly
+	door_color = COLOR_GRAY20
+	stripe_color = COLOR_RED_NEBULA
+
+/obj/machinery/door/airlock/multi_tile/glass/nebula
+	door_color = COLOR_GRAY20
 	stripe_color = COLOR_RED_NEBULA
 
 /obj/map_helper/paint_stripe/nebula/color=COLOR_RED_NEBULA
